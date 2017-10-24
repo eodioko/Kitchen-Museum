@@ -4,11 +4,18 @@ and show what we found out in a 'museum-like' experience. I chose to see how VR 
 
 Screenshot and video walkthrough of project can be found in Assets/Screenshot
 
-Features: Over 5 interactive items
+Features: 
+
+Over 5 interactive items
+
 Interactive videos with sound
+
 Interactive waypoints to navigate
+
 Optimized for mobile
+
 Background Sound: www.bensound.com
+
 
 Software Used:
 Unity Engine 2017.1.0p4
